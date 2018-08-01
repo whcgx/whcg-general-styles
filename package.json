@@ -1,0 +1,24 @@
+{
+  "name": "@whcg/whcg-general-styles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whcgx/whcg-general-styles.git"
+  },
+    "devDependencies": {
+    "@polymer/iron-ajax": "^3.0.0-pre.18",
+    "@vaadin/elements-demo-resources": "^2.1.0",
+    "@vaadin/vaadin-core": "^10.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whcgx/whcg-general-styles/issues"
+  },
+  "homepage": "https://github.com/whcgx/whcg-general-styles#readme"
+}
